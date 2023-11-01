@@ -4,7 +4,7 @@
 This project focuses on data analysis related to the COVID-19 pandemic, offering insights into the spread of the virus, its impact on different regions, and key statistics. Whether you're a public health professional, data analyst, or someone interested in understanding the pandemic, this analysis provides valuable information about the situation.
 
 ## Data Sources
-The data used for this analysis is collected from government reports [Dataset](https://ourworldindata.org/covid-deaths).
+The data used for this analysis is collected from Ourworldindata.org [Dataset](https://ourworldindata.org/covid-deaths).
 
 The project is based on publicly available data, and no personal health information is included.
 
