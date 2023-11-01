@@ -5,6 +5,7 @@ This project focuses on data analysis related to the COVID-19 pandemic, offering
 
 ## Data Sources
 The data used for this analysis is collected from government reports [Dataset](https://ourworldindata.org/covid-deaths).
+
 The project is based on publicly available data, and no personal health information is included.
 
 ## Project Highlights
