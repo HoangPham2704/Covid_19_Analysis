@@ -3,6 +3,13 @@
 ## Overview
 This project focuses on data analysis related to the COVID-19 pandemic, offering insights into the spread of the virus, its impact on different regions, and key statistics. Whether you're a public health professional, data analyst, or someone interested in understanding the pandemic, this analysis provides valuable information about the situation.
 
+## How to Use
+1. Access the analysis by visiting [Covid_19_Dashboard](https://public.tableau.com/app/profile/pham.hoang5326/viz/Covid-19Dashboard_16969403859380/Dashboard1?publish=yes).
+
+2. Navigate the visualizations to gain insights about the COVID-19 pandemic.
+
+3. Utilize filters, sorting options, or selectors to customize your analysis based on your interests.
+
 ## Data Sources
 The data used for this analysis is collected from Ourworldindata.org [Dataset](https://ourworldindata.org/covid-deaths).
 
@@ -18,13 +25,6 @@ The project is based on publicly available data, and no personal health informat
 - **Death Count per Continent:** Examine COVID-19-related fatalities in different continents and assess the regional impact.
 
 - **Time-Series Data:** Track the progression of the pandemic over time, including key milestones and trends.
-
-## How to Use
-1. Access the analysis by visiting [Covid_19_Dashboard](https://public.tableau.com/app/profile/pham.hoang5326/viz/Covid-19Dashboard_16969403859380/Dashboard1?publish=yes).
-
-2. Navigate the visualizations to gain insights into the COVID-19 pandemic.
-
-3. Utilize filters, sorting options, or selectors to customize your analysis based on your interests.
 
 ## Prerequisites
 To interact with this analysis, you may need:
